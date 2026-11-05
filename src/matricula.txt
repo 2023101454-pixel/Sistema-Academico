@@ -1,2 +1,3 @@
 Registro inicial de matricula
 Validación de prerrequisitos añadida
+Validación de duplicados
