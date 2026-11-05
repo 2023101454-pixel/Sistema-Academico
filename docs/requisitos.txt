@@ -1,1 +1,2 @@
 RF-01: El sistema debe permitir registrar matricula
+RF-02: Validar prerrequisitos
