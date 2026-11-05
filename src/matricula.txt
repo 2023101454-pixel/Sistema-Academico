@@ -1,2 +1,4 @@
 Registro inicial de matricula
 Validación de prerrequisitos añadida
+Validación de duplicados
+if (matriculados.contains(estudiante)) { throw new Error('Error: Matrícula duplicada detectada'); }
